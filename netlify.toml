@@ -5,3 +5,4 @@
 [context.production.environment]
   HUGO_VERSION = "0.123.8"
   HUGO_EXTENDED = "true"
+  GO_VERSION = "1.22.0"
