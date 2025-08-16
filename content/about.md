@@ -1,11 +1,10 @@
-+++
-title = "About"
-date = "2017-06-27T17:39:21-07:00"
-draft = false
-+++
+---
+title: "Welcome to the inaugural AussiERV!"
+date: 2024-03-24T09:42:33+11:00
+draft: false
+author: AussiERV
+---
 
-Osprey Delight is the free-minded artist's choice for a clutter-free and fast single-page portfolio. 
+AussiERV is Australia’s first dedicated symposium focused on endogenous retroviruses (ERVs) in health and disease. This one-day virtual event brings together an exceptional lineup of researchers whose work is shaping our understanding of endogenous retroviruses. 
 
-It tastes a bit different than [the original great Osprey theme](https://github.com/tomanistor/osprey) and adds awesome new functionality to your Delight.
-
-It's perfectly suited to show off your awesome work! {{< icon "rocket" >}}
+Join us for a day of discovery, discussion, and collaboration in this exciting, diverse and rapidly evolving field. From groundbreaking discoveries in human health to insights into Australia’s unique wildlife, our speakers reflect the incredible breadth and depth of ERV science. Learn more about our speakers and their research below.

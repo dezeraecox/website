@@ -69,14 +69,6 @@ Params:
     url: ""
   - type: linkedin 
     url: ""
-  - type: github
-    url: "https://github.com/hugo-mods/"
-  - type: heart
-    url: "https://github.com/sponsors/kdevo"
-  - type: stackoverflow  
-    url: ""
-  - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
 
 ## Additional theme features:
   Feat:
@@ -112,22 +104,6 @@ Params:
     Background:
       resize: "1920x"
       resizeLQIP: "256x"
-
-  # Advanced configuration for lazyimg module (comment out if needed):
-  # lazyimg:
-  #   resizer: auto
-  #   renderer: lqip-webp
-
-  #   # Resizer options:
-  #   lqipSize: "120x Gaussian"
-  #   maxSize: "1920x"
-  #   responsiveSizes: ["320x", "640x", "768x", "1024x", "1366x", "1600x", "1920x"]
-  #   resizeOptions: "Lanczos q95"
-
-  #   # Renderer options:
-  #   #class: ""
-  #   #alt: ""
-  #   noscript: true
       
 
 ## Menu items are automatically added to navbar.
@@ -141,14 +117,10 @@ Menu:
       url: "/#about"
       # weight controls the order of the menu items.
       weight: 1
-    - name: "Work"
+    - name: "Speakers"
       identifier: gallery
-      url: "/#work"
+      url: "/#speakers"
       weight: 2
-    - name: "Blog"
-      identifier: blog
-      url: "/#blog"
-      weight: 3
     - name: "Contact"
       identifier: contact
       url: "/#contact"
