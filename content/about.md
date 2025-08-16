@@ -5,6 +5,4 @@ draft: false
 author: AussiERV
 ---
 
-AussiERV is Australia’s first dedicated symposium focused on endogenous retroviruses (ERVs) in health and disease. This one-day virtual event brings together an exceptional lineup of researchers whose work is shaping our understanding of endogenous retroviruses. 
-
-Join us for a day of discovery, discussion, and collaboration in this exciting, diverse and rapidly evolving field. From groundbreaking discoveries in human health to insights into Australia’s unique wildlife, our speakers reflect the incredible breadth and depth of ERV science. Learn more about our speakers and their research below.
+AussiERV is Australia’s first symposium dedicated to endogenous retroviruses (ERVs). This one-day virtual event brings together an exceptional lineup of national and international leaders whose research is at the forefront of this this exciting, diverse and rapidly evolving field. From groundbreaking discoveries in human biology to insights into Australia’s unique wildlife, their work is shaping our understanding of endogenous retroviruses in health and disease. Learn more about our speakers and their work below.
