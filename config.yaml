@@ -96,7 +96,7 @@ Params:
   # Image resizing can be configured here (see README for more info):
   Image:
     Logo:
-      resize: "600x"
+      resize: "900x"
 
     Gallery:
       resize: "600x"
