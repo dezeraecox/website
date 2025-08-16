@@ -12,10 +12,13 @@ During registration, you will have the opportunity to submit an abstract for con
 
 <h2 align="left">Key Dates</h2>
 
-- **Abstract submission deadline:** 1 September, 2025
-- **Notification of abstract acceptance:** 7 September, 2025
-- **Registration deadline:** November 1, 2025
-- **Symposium:** November 7, 2025
+<ul align="left"><strong>Abstract submission deadline:</strong> October 1, 2025</ul>
+
+<ul align="left"><strong>Notification of abstract acceptance:</strong> October 7, 2025</ul>
+
+<ul align="left"><strong>Registration deadline:</strong> November 1, 2025</ul>
+
+<ul align="left"><strong>Symposium:</strong> November 7, 2025</ul>
 
 Ready to join us? Register now!
 
