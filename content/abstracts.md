@@ -7,8 +7,6 @@ author = "AussiERV"
 weight = 2
 +++
 
-## Call for Abstracts
-
 During registration, you will have the opportunity to submit an abstract for consideration as an oral or poster presentation. Please prepare your abstract according to the following guidelines:
 
 - **Title:** A concise title that reflects the content of your presentation.

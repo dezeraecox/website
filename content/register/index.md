@@ -6,9 +6,7 @@ author: AussiERV
 ---
 
 <div align="left">
-Virtual attendance is free and includes access to the live stream on the day of the symposium, plus an interactive poster experience and a live networking session where you can connect with poster presenters and speakers.
-
-During registration, you will have the opportunity to submit an abstract for consideration as an oral or poster presentation. Please prepare your abstract according to the guidelines available [here](https://aussierv.org/abstracts).
+Virtual attendance is free and includes access to the live stream on the day of the symposium, plus an interactive poster experience and a live networking session where you can connect with poster presenters and speakers. During registration, you will have the opportunity to submit an abstract for consideration as an oral or poster presentation. Please prepare your abstract according to the guidelines available <a href="https://aussierv.org/abstracts">here</a>.
 </div>
 
 
