@@ -42,7 +42,7 @@ Params:
   #   - delight is the light version of osprey-delight
   #   - dedark is the dark version of "delight"
   #   - origin is the legacy version (similar to https://github.com/tomanistor/osprey)
-  theme: "delight"
+  theme: "nervdark"
 
   # tagline (followed by a cursor) is shown at the top, below the logo
   #tagline: "Welcome!"
@@ -64,16 +64,16 @@ Params:
 ## Social links in footer:
 ##   The type specifies the icon to use. For more information, see: 
 ##   https://github.com/kdevo/osprey-delight/blob/dev/CUSTOMIZING.md#icons
-  Social:
-  - type: twitter # references the icon to use
-    url: ""
-  - type: linkedin 
-    url: ""
+  # Social:
+  # - type: twitter # references the icon to use
+  #   url: ""
+  # - type: linkedin 
+  #   url: ""
 
 ## Additional theme features:
   Feat:
     # ajaxBasin requires Basin setup for a free contact form (see instructions in README).
-    ajaxBasin: "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+    ajaxBasin: "https://usebasin.com/f/3d5d9b8b7c66"
 
     # useStructuredData for your own https://schema.org/Person (SEO-friendly).
     #   This will be auto-generated dependent on the information you provide in this configuration.
