@@ -1,5 +1,5 @@
 title: "Osprey Delight Demo"
-baseURL: "https://example.com"
+baseURL: "https://aussierv.netlify.app/"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight/v5"
 tags: ["personal", "homepage", "portfolio"]
