@@ -121,12 +121,25 @@ Menu:
       identifier: gallery
       url: "/#speakers"
       weight: 2
+    - name: "Register"
+      identifier: register
+      url: "/#register"
+      weight: 3
+    - name: "Program"
+      identifier: program
+      url: "/#program"
+      weight: 4
     - name: "Contact"
       identifier: contact
       url: "/#contact"
-      weight: 4
+      weight: 5
     # - name: ""
     #   # pre makes it possible to use arbitrary HTML before the name, e.g. referencing icons here is possible:
     #   pre: '<svg class="icon"><use xlink:href="#icon-external"/></svg>&nbsp;'
     #   url: "https://pyotek.dev"
     #   weight: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

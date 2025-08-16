@@ -1,6 +1,6 @@
 ---
 # [str] Title of the project. This is also visible when hovering over a gallery item.
-title: "Coming soon... Stay tuned!"
+title: "Prof. Avindra Nath"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
 subtitle: " "
@@ -9,21 +9,22 @@ subtitle: " "
 #   Just like Hugo's natural ordering, this is anti-chronological.
 #   You can use 'weight' to order (primarily) for more control (sometimes it makes sense to put old items before new ones).
 weight: 2
+
 #   The specifics are documented here: https://gohugo.io/templates/lists/#order-content
-date: "2024-03-24T20:36:49+11:00"
+date: "2024-03-24T20:36:58+11:00"
 # [str] Gallery image file from the assets directory. 
 image: "/images/bios/default.png"
 # [str] Alternative (image) description.
 alt: ""
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
-color: "#131c31"
 # color: "#373F51"
+color: "#131c31"
 # [css] Optional gallery item hover color (if omitted, will use theme's fallback).
 #hoverColor: "#fff"
 # [map] Configure github specific options here:
 # github: 
     # [str] Repo is a combination of "<user_or_org>/<repository_name>"
-    # repo: "<username>/tram"
+    # repo: "<username>/publications"
     # [bool] Show repository information such project language below the buttons.
     # showInfo: true
     # showButtons: true
@@ -44,7 +45,7 @@ color: "#131c31"
 # buttons:
 #   - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
 #     icon: view # optional: use an icon from icons.yaml
-#     newTab: true # optional: controls if url should be opened in new tab
+#     newTab: false # optional: controls if url should be opened in new tab
 #     url: ""
 #   - i18n: code 
 #     icon: code
