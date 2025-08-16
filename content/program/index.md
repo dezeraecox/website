@@ -6,6 +6,7 @@ author: AussiERV
 ---
 
 <h2 align="center">Preliminary program</h2>
+<div align="center">
 
 |                         |   |                                                |
 |:------------------------|---|:-----------------------------------------------|
@@ -24,3 +25,4 @@ author: AussiERV
 |                         |   | Keynote (*50 min + Q&A*)                       |
 | **5:00 PM – 5:15 PM**   |   | **Prizes & Closing Remarks**                   |
 
+</div>
