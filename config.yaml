@@ -1,5 +1,5 @@
 title: "AussiERV"
-baseURL: "https://aussierv.netlify.app/"
+baseURL: "https://aussierv.org/"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight/v5"
 tags: ["conference", "homepage", "research"]

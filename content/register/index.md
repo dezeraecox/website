@@ -20,7 +20,7 @@ Virtual attendance is free and includes access to the live stream on the day of 
 
 <ul align="left"><strong>Symposium:</strong> November 7, 2025</ul>
 
-Ready to join us? Register now!
+Ready to join us? Registration is fast and free!
 
 <div class="contact-submit" style="text-align:center;">
   <a href="https://events.humanitix.com/aussierv-2025"
