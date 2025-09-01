@@ -1,6 +1,6 @@
 ---
 # [str] Title of the project. This is also visible when hovering over a gallery item.
-title: "Coming soon... Stay tuned!"
+title: "Dr Emma Harding"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
 subtitle: " "
@@ -13,7 +13,7 @@ weight: 3
 #   The specifics are documented here: https://gohugo.io/templates/lists/#order-content
 date: "2024-03-24T20:36:42+11:00"
 # [str] Gallery image file from the assets directory. 
-image: "/images/bios/default.png"
+image: "/images/bios/EH.png"
 # [str] Alternative (image) description.
 alt: ""
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
@@ -55,3 +55,18 @@ color: "#131c31"
 ---
 <!-- ## Abstract -->
 
+*Department of Biology, University of Oxford*
+
+Emma is a paleovirologist studying the evolution, transmission and co-option of viruses in vertebrates. She completed her undergraduate studies and PhD at the University of New South Wales in Sydney before moving to the UK to work as a postdoctoral researcher at the University of Oxford. Traditionally trained as a molecular virologist, she has a background in wet-lab techniques, working to develop broad-spectrum antiviral candidates, monitor circulating viruses from clinical and environmental samples, and contribute to the NSW Health COVID-19 response through wastewater analysis of SARS-CoV-2. During her PhD, Emma transitioned to bioinformatic research and now exclusively works with computers, developing methods and analyses to understand overarching trends and patterns of virus evolution.
+
+## Abstract
+
+### Endogenous retroviruses as viral fossils: detection methods and evolutionary insights
+
+Emma F Harding¹, Laura Munoz-Baena¹, Aris Katzourakis¹,
+
+*¹Department of Biology, University of Oxford*
+
+Retroviridae is an important viral family that contains many mammalian pathogens and has a long history of co-evolution with vertebrates. The obligate integration of retroviruses into host DNA during infection leads to endogenous retroviruses (ERVs), which can be passed on to progeny if integrated in a germline cell. These elements act as molecular “fossils”, providing insights into evolutionary trends over millions of years.
+ERV classification is a difficult endeavour, with modern retroviruses representing only a fraction of their historical diversity. In addition, modern retroviruses are often the product of multiple historical recombination and transmission events, making tracing their evolutionary path challenging. We created a pipeline to detect ERVs based on sequence similarity to retroviral proteins using DIAMOND, reconstruct the ancestral proteins using Genewise and classify them with custom developed HMMs. We then systematically search and evaluate degradation of LTRs to date ERVs. Finally, we use MMseqs to cluster the reconstructed sequences, calculate k-mer distances and construct networks to visualise their relationships and connections.
+Collecting data from 4,155 vertebrate genomes, we identify discrepancies in the types and rate of retroviral integration in different host orders, indicating the differential burdens that retroviral infections have on species over time. We also identify ERVs from recently circulating retroviruses to understand the transmission dynamics influencing the modern global retrovirome. Finally, we explore the origins of retroviral genera, expanding our understanding of the evolutionary patterns that shape this viral family. 
