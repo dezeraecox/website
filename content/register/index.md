@@ -12,9 +12,7 @@ Virtual attendance is free and includes access to the live stream on the day of 
 
 <h2 align="left">Key Dates</h2>
 
-<ul align="left"><strong>Abstract submission deadline(EXTENDED!):</strong> October 7, 2025</ul>
-
-<ul align="left"><strong>Notification of abstract acceptance:</strong> October 7, 2025</ul>
+<ul align="left"><strong>Abstract submission deadline(EXTENDED!):</strong> October 14, 2025</ul>
 
 <ul align="left"><strong>Registration deadline:</strong> November 1, 2025</ul>
 
