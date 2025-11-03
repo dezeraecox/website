@@ -28,7 +28,7 @@ author: AussiERV
 </div>
 
 
-We have attendees from all around the globe - seven (!) timezones! Below is a handy reference for converting the symposium time (AEDT, UTC+11) to your local time:
+### We have attendees from all around the globe - seven (!) timezones! Below is a handy reference for converting the symposium time (AEDT, UTC+11) to your local time:
 
 
 <div style="overflow-x: auto; white-space: nowrap;">
