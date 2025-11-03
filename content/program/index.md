@@ -7,6 +7,11 @@ author: AussiERV
 
 <h2 align="center">Program</h2>
 <div align="center" style="overflow-x: auto; white-space: nowrap;">
+<style>
+  table td, table th {
+    padding: 6px 18px; /* top-bottom 6px, left-right 18px */
+  }
+</style>
 
 | Style          | Speaker           | Affiliation                   | Title                                                                                                                    |
 | -------------- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
