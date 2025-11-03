@@ -6,12 +6,12 @@ author: AussiERV
 ---
 
 <h2 align="center">Program</h2>
-<div align="center">
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
 
 | Style          | Speaker           | Affiliation                   | Title                                                                                                                    |
 | -------------- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Plenary**    | *Emma Harding*    | University of Oxford          | *Endogenous retroviruses as viral fossils: detection methods and evolutionary insights*                                  |
-| **Short talk** | *Alex Greenwood*  | –                             | *TBA*                                                                                                                    |
+| **Short talk** | *Alex Greenwood*  | Freie Universität Berlin      | *Insights into the oncogenic potential of retroviral germline colonization*                                             |
 | **Short talk** | *Vidya Nair*      | Helmholtz Zentrum Munich      | *An Ancestral Retroviral Integrant Modulates Developmental Signaling and Cell Fate in Humans*                            |
 | **Short talk** | *Romano Strobelt* | Helmholtz-Munich              | *HERV-K10 as a mediator of immune modulation in hepatitis infections*                                                    |
 | **Keynote**    | *Avindra Nath*    | National Institutes of Health | *Endogenous Retroviruses in Pathophysiology and as Therapeutic Targets in Amyotrophic Lateral Sclerosis*                 |
