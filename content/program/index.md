@@ -20,6 +20,7 @@ author: AussiERV
 | **Short talk** | *Michaela Blyton* | University of Queensland      | *Koala retrovirus plasma RNA load: cause and effect*                                                                     |
 | **Plenary**    | *Natasha Speight* | University of Adelaide        | *Koala retrovirus in southern koalas*                                                                                    |
 
+We have attendees from seven (!) timezones! To help you plan your day, here is a table of the scheduled talk times in various locations:
 
 | Speaker   | Location  | UK, GMT      | Germany, CET | Maryland, EST | California, PST | NSW, AEDT   | QLD, AEST   | SA, ACDT    |
 | --------- | --------- | ------------ | ------------ | ------------- | --------------- | ----------- | ----------- | ----------- |
