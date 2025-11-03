@@ -8,13 +8,17 @@ author: AussiERV
 <h2 align="center">Program</h2>
 <div align="center">
 
-<img src="images/program_1.png" alt="AussiERV 2025 Program" style="max-width: 100%; height: auto;">
-
-<img src="images/program_1.png" width="500" style="float:left; padding-right:20px" >
-
-We have attendees from seven (!) timezones! To help you plan your day, here is a table of the scheduled talk times in various locations:
-
-<img src="/images/program_2.png" alt="AussiERV 2025 Timing" style="max-width: 100%; height: auto;"/>
+| Style          | Speaker           | Affiliation                   | Title                                                                                                                    |
+| -------------- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Plenary**    | *Emma Harding*    | University of Oxford          | *Endogenous retroviruses as viral fossils: detection methods and evolutionary insights*                                  |
+| **Short talk** | *Alex Greenwood*  | –                             | *TBA*                                                                                                                    |
+| **Short talk** | *Vidya Nair*      | Helmholtz Zentrum Munich      | *An Ancestral Retroviral Integrant Modulates Developmental Signaling and Cell Fate in Humans*                            |
+| **Short talk** | *Romano Strobelt* | Helmholtz-Munich              | *HERV-K10 as a mediator of immune modulation in hepatitis infections*                                                    |
+| **Keynote**    | *Avindra Nath*    | National Institutes of Health | *Endogenous Retroviruses in Pathophysiology and as Therapeutic Targets in Amyotrophic Lateral Sclerosis*                 |
+| **Short talk** | *Jay Hill*        | University of Wollongong      | *Establishing an isolated expression model for ERV macromolecules to determine their contribution to TDP-43 dysfunction* |
+| **Short talk** | *Raquel Fueyo*    | Stanford University           | *Impact on endogenous retroviruses on human preimplantation development*                                                 |
+| **Short talk** | *Michaela Blyton* | University of Queensland      | *Koala retrovirus plasma RNA load: cause and effect*                                                                     |
+| **Plenary**    | *Natasha Speight* | University of Adelaide        | *Koala retrovirus in southern koalas*                                                                                    |
 
 
 
